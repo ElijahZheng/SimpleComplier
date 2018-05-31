@@ -1,5 +1,7 @@
 # python写的java的简易编译器
 
+- author: zhengxiangling
+
 - 目标 词法分析 语法分析 语义分析
 
 - 测试用例放在同一文件夹中：test.java
